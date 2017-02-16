@@ -88,7 +88,7 @@ public class Usuario implements Serializable {
 
 	// metodo vacio
 
-	Usuario() {
+	public Usuario() {
 
 	}
 
